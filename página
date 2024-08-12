@@ -1,0 +1,1 @@
+document.getElementById('sobre').innerHTML += '<p>Nova informação adicionada!</p>';
