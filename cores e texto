@@ -1,0 +1,9 @@
+body {
+    background-color: #f4f4f4; /* Cor de fundo */
+    font-family: 'Arial', sans-serif; /* Fonte */
+}
+
+header {
+    background-color: #333; /* Cor do cabeçalho */
+    color: #fff; /* Cor do texto do cabeçalho */
+}
